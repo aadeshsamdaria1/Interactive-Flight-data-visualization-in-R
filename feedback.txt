@@ -1,0 +1,2 @@
+A good dashboard with a neat layout. It was a shame that airline codes were used - including airline names would have dramatically improved correspondence. Also, it seemed that, rather than showing on-time performance, the bat chart actually showed the airports with the largest delay! For higher design innovation and basic design marks, a stronger, more coherent aesthetic would have been beneficial. The design summary was presented neatly but plainly. It tended to describe the interface and gave explanation of the reasons behind only a few design choices.
+75/100
